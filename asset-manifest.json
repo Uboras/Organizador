@@ -9,7 +9,7 @@
     "453.3705e2de.chunk.js.map": "/Organizador/static/js/453.3705e2de.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.84abe2e0.css",
-    "static/js/main.c5872e03.js"
+    "/Organizador/static/css/main.84abe2e0.css",
+    "/Organizador/static/js/main.c5872e03.js"
   ]
 }
