@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Vencimientos/static/css/main.782562f9.css",
-    "main.js": "/Vencimientos/static/js/main.ab39ee87.js",
-    "static/js/453.3705e2de.chunk.js": "/Vencimientos/static/js/453.3705e2de.chunk.js",
-    "index.html": "/Vencimientos/index.html",
-    "main.782562f9.css.map": "/Vencimientos/static/css/main.782562f9.css.map",
-    "main.ab39ee87.js.map": "/Vencimientos/static/js/main.ab39ee87.js.map",
-    "453.3705e2de.chunk.js.map": "/Vencimientos/static/js/453.3705e2de.chunk.js.map"
+    "main.css": "/static/css/main.84abe2e0.css",
+    "main.js": "/static/js/main.e05d0d47.js",
+    "static/js/453.3705e2de.chunk.js": "/static/js/453.3705e2de.chunk.js",
+    "index.html": "/index.html",
+    "main.84abe2e0.css.map": "/static/css/main.84abe2e0.css.map",
+    "main.e05d0d47.js.map": "/static/js/main.e05d0d47.js.map",
+    "453.3705e2de.chunk.js.map": "/static/js/453.3705e2de.chunk.js.map"
   },
   "entrypoints": [
-    "/Vencimientos/static/css/main.782562f9.css",
-    "/Vencimientos/static/js/main.ab39ee87.js"
+    "static/css/main.84abe2e0.css",
+    "static/js/main.e05d0d47.js"
   ]
 }
